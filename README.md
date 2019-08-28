@@ -1,4 +1,4 @@
-# Get notifications of events happening near you using Twilio and Eventbrite API/Eventful API
+# Get notifications of events happening near you using Twilio and Eventbrite API
 
 ## Introduction
 

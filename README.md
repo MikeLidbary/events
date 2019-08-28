@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Setting up Eventbrite/Eventful Accounts and Environment
 
 ## Creating our Application
-* Create an endpoint to get events from Eventful/Eventbrite
+* Create an endpoint to get events from Eventbrite
 * Create a notification function 
 * Send Events through Twilio SMS
 
